@@ -1,3 +1,6 @@
+![Team Perdoado Banner](https://pbs.twimg.com/profile_banners/1911770212522999808/1744637890/1500x500)
+
+
 # 👥 Team Perdoado Organization
 
 🌐 [team.perdoado.com](https://team.perdoado.com/)
@@ -30,8 +33,8 @@ Here you’ll find open-source projects, internal tools, and custom solutions bu
 ## 🤝 Let’s Connect
 
 - Website: [team.perdoado.com](https://team.perdoado.com/)  
-- Instagram: [@teamperdoado](https://instagram.com/teamperdoado)  
-- Email: contato@perdoado.com
+- Instagram: [@teamperdoado](https://instagram.com/)  
+- Email: international@perdoado.com.br
 
 ---
 
