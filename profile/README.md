@@ -1,12 +1,38 @@
-## Hi there 👋
+# 👥 Team Perdoado Organization
 
-<!--
+🌐 [team.perdoado.com](https://team.perdoado.com/)
 
-**Here are some ideas to get you started:**
+Welcome to the official **Team Perdoado** organization on GitHub!  
+We are a creative and tech-driven agency focused on building solutions that impact lives and strengthen connections.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🚀 What We Do
+
+- 🌍 Website and web application development  
+- 🧠 AI integrations and automation  
+- 🎨 Digital design and branding  
+- 📈 Customized digital strategies
+
+## 💼 Our Values
+
+- **Excellence:** We strive to go beyond expectations  
+- **Purpose:** Every project is driven by intention  
+- **Collaboration:** We believe in the power of teamwork  
+- **Impact:** We build solutions that make a difference
+
+## 🧩 Featured Repositories
+
+Here you’ll find open-source projects, internal tools, and custom solutions built by our team.
+
+| Project | Description | Status |
+|--------|-------------|--------|
+| [repo-name](https://github.com/teamperdoado/repo-name) | Short description of what it does | 🛠️ In development |
+
+## 🤝 Let’s Connect
+
+- Website: [team.perdoado.com](https://team.perdoado.com/)  
+- Instagram: [@teamperdoado](https://instagram.com/teamperdoado)  
+- Email: contato@perdoado.com
+
+---
+
+> ✨ We create with purpose. We develop with excellence. We serve with love.
