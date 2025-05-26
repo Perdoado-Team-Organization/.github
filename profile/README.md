@@ -1,7 +1,7 @@
 ![Team Perdoado Banner](https://pbs.twimg.com/profile_banners/1911770212522999808/1744637890/1500x500)
 
 
-# 👥 Team Perdoado Organization
+#  Team Perdoado Organization
 
 🌐 [team.perdoado.com](https://team.perdoado.com/)
 
